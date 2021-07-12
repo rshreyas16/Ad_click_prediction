@@ -7,5 +7,5 @@ The Goal of the project is to predict if a particular user is likely to click on
 The EDA has been performed for this project and applied  many supervised ML models for this case study. All the models performed almost well.
 
 ## Conclusion
-Comparing all the above implementation models, we conclude that Naive Bayes Algorithm gives us the maximum accuracy for determining the click probability. We believe in future there will be fewer ads, but they will be more relevant
+Comparing all the above implementation models, we conclude that Naive Bayes Algorithm gives us the maximum accuracy for determining the click probability. We believe in future there will be fewer ads, but they will be more relevant.
 
